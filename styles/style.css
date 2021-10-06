@@ -55,7 +55,7 @@
     width: 765px;
     height: 608px;
     position: absolute;
-    z-index: 1  ;
+    z-index: 1;
   }
 
   .header_main-illustration_pozition {
@@ -158,7 +158,7 @@
     border: 3px solid red;
     text-align:center;
     width: 60%;
-    margin: 0 auto ;
+    margin: 0 auto;
   }
 
   .title-second-level{
@@ -318,7 +318,7 @@
         border: 3px solid rgb(197, 75, 181);
       }
 
-      .footer_autot {
+      .footer_autor {
         margin: 18px 0px;
         border: 3px solid rgb(68, 184, 199);
         font-size: 18px;
