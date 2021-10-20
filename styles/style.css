@@ -60,9 +60,7 @@
   width           : 568px;
   background-color: #2f80ed;
   top             : 64px;
-  left            : 50%;
-  transform       : translate(39.5%, 0%);
-  border-radius   : 0%;
+  right           : 0;
   position        : absolute;
   z-index         : 0;
 }
