@@ -1,0 +1,9 @@
+.resources__links-list {
+    list-style: none;
+    padding-inline-start: 0;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0;
+  }
